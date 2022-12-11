@@ -1,2 +1,12 @@
-@import './common';
-@import './example';
+@import './utils/fonts';
+@import './utils/variables';
+
+@import './base/reset';
+@import './utils/mixins';
+@import './base/common';
+@import './utils/hidden';
+
+@import './components/container';
+
+@import './layouts/contacts';
+
